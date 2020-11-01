@@ -1,0 +1,1 @@
+{"id":"org.tvcooliptv","version":"1.0.1","name":"TV cool IPTV","description":"Latino IPTV","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["TV-cool"],"icon":"https://raw.githubusercontent.com/mik25/tvcool/main/logo.png","catalogs":[{"id":"TV-coolcat","name":"TV cool IPTV","type":"tv"}]}
